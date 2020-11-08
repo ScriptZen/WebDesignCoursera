@@ -15,14 +15,8 @@ div {
   width: 550px;
   height: 550px;
 }
-
-p {
-  
-  margin: 15px;
-  
-}
-#p3 {
-  background-color: brown;
+#p1 {
+  background-color: Orange;
   width: 250px;
   height: 250px;
 }
@@ -31,11 +25,13 @@ p {
   width: 250px;
   height: 250px;
 }
-#p1 {
-  background-color: Orange;
+#p3 {
+  background-color: brown;
   width: 250px;
   height: 250px;
 }
+
+
 
 body {
     background-color: whitesmoke;
